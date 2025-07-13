@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mohamed Khaled
 
-🌟 **Computer Science Student | Flutter Developer | AI & Cybersecurity Enthusiast**
+🌟 **Computer Science Student | Flutter Developer | AI Enthusiast**
 
 ---
 
@@ -8,10 +8,9 @@
 
 - 🎓 I’m a Computer Science student, born on **12 April 2005**
 - 📱 Skilled in **Flutter**, Firebase, and Mobile Development
-- 🤖 Learning **AI**, Cybersecurity, Computer Architecture & Systems
+- 🤖 Learning **AI**, Computer Architecture & Systems
 - 📚 I love explaining complex topics in a simple, modern way — that’s why I’m building **Code of Steel** 💡
 - 🌙 I’m a proud **Muslim** who values curiosity and creativity
-- 🎯 My goal: to **invent computer science**, not just apply it!
 
 ---
 
