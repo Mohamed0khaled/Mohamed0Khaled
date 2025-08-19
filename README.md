@@ -21,11 +21,7 @@
 - 🧩 Learning paths in **AI**, **Data Structures**, **Cybersecurity**, and **Operating Systems**
 
 ---
-## 🎓 Certifications
 
-[![Credly Badge]([https://images.credly.com/size/340x340/images/0ee01949-fc46-4d3a-a911-b346d9a12fb1/placeholder.png](https://images.credly.com/size/680x680/images/dc4d546e-e28c-4d6d-9e47-0445d2da073c/Coursera_20Intro_20to_20Mobile_20App_20Development.png))](https://www.credly.com/badges/e0ee0194-9fcf-46d3-a911-b346d9a12fb1/public_url)
-
----
 ## 📈 GitHub Stats
 
 ![Mohamed’s GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
