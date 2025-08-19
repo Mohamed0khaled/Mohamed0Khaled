@@ -21,7 +21,11 @@
 - 🧩 Learning paths in **AI**, **Data Structures**, **Cybersecurity**, and **Operating Systems**
 
 ---
+## 🎓 Certifications
 
+[![Credly Badge](https://images.credly.com/size/340x340/images/0ee01949-fc46-4d3a-a911-b346d9a12fb1/placeholder.png)](https://www.credly.com/badges/e0ee0194-9fcf-46d3-a911-b346d9a12fb1/public_url)
+
+---
 ## 📈 GitHub Stats
 
 ![Mohamed’s GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
@@ -37,5 +41,5 @@
 ---
 
 *“Stay curious, stay creative.” ✨*
-[
-](https://www.credly.com/badges/e0ee0194-9fcf-46d3-a911-b346d9a12fb1/public_url)
+
+
