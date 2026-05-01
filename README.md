@@ -1,41 +1,52 @@
 # 👋 Hi, I'm Mohamed Khaled
 
-🌟 **Computer Science Student | Flutter Developer | AI Enthusiast**
+🌟 **Machine Learning Engineer | Flutter Developer | Content Creator**
 
 ---
 
 ## 💻 About Me
 
-- 🎓 I’m a Computer Science student, born on **12 April 2005**
-- 📱 Skilled in **Flutter**, Firebase, and Mobile Development
-- 🤖 Learning **AI**, Computer Architecture & Systems
-- 📚 I love explaining complex topics in a simple, modern way — that’s why I’m building **Code of Steel** 💡
-- 🌙 I’m a proud **Muslim** who values curiosity and creativity
+- 🎓 Artificial Intelligence student  
+- 🤖 Specialized in **Machine Learning** with a focus on building real-world intelligent systems  
+- 📱 Flutter Developer with experience in **Firebase** and real-time applications  
+- 🎥 Content Creator simplifying **AI, Mathematics, and Computer Systems** through visual storytelling  
+- 🧠 Strong interest in understanding systems from low-level architecture to intelligent models  
 
 ---
 
-## 🚀 Current Projects
+## 🚀 Current Focus
 
-- 🔨 **Tawapeer**: a real-time queue management app using Flutter & Firebase
-- 🎥 Educational **Motion Graphics Series**: explaining microprocessors, assembly, and math in an engaging way
-- 🧩 Learning paths in **AI**, **Data Structures**, **Cybersecurity**, and **Operating Systems**
+- 🧠 **Machine Learning**
+  - Supervised & Unsupervised Learning  
+  - Model Evaluation & Optimization  
+  - Working with real-world datasets  
 
----
+- 📊 **Mathematics for AI**
+  - Completed coursework from **University of London**  
+  - Linear Algebra, Probability, and Optimization  
 
-## 📈 GitHub Stats
+- ⚙️ **MLOps**
+  - Model Deployment & Serving  
+  - Building ML Pipelines  
+  - Experiment Tracking  
 
-![Mohamed’s GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+- 🐧 **Linux & Scripting**
+  - Linux Administration  
+  - Bash Scripting  
+
+- 🎥 **Content Creation**
+  - Creating short, deep-dive technical videos  
+  - Focus: clarity, visuals, and intuitive explanations  
 
 ---
 
 ## 📫 Let’s Connect
 
-- 📧 Email: [your-email@example.com](mailto:your-email@example.com)
-- 💼 LinkedIn: [your-linkedin](#)
-- 🌐 Portfolio: [your-website](#)
+- 📧 Email: azmohamed0909@gmail.com 
+- 💼 LinkedIn: https://www.linkedin.com/in/mohamedkhaledsa/
 
 ---
 
-*“Stay curious, stay creative.” ✨*
+## ✨ Philosophy
 
-
+> “Depth over noise. Clarity over complexity.”
